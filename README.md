@@ -22,7 +22,7 @@ FoodLens is a web application that uses AI to recognize food items from uploaded
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/foodlens.git
+   git clone https://github.com/mdzubayerhossain/FoodLens.git
    cd foodlens
    ```
 
@@ -56,7 +56,7 @@ foodlens/
 ├── templates/
 │   └── index.html          # Main HTML template
 └── README.md               # This file
-
+```
 ## How It Works
 
 ### Backend
@@ -83,6 +83,7 @@ foodlens/
    http://127.0.0.1:5000/
    ```
 
+
 3. Upload a food image or use the camera to capture one, then click "Analyze Food".
 
 ## Limitations
@@ -101,6 +102,3 @@ To improve the application, consider:
 4. **Adding user accounts** to track food intake over time.
 5. **Integrating nutritional information** beyond just calories (protein, carbs, fats, etc.).
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
